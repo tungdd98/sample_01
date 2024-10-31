@@ -1,5 +1,5 @@
 {
-  "domain": "{yourDomain}",
-  "clientId": "{yourClientId}",
+  "domain": "dev-r6scgpvf8hngyssb.us.auth0.com",
+  "clientId": "HnWTEyIEX1ZTjxiZ8hCHBxbYe2SxMS4F",
   "audience": "{yourApiIdentifier}"
 }
